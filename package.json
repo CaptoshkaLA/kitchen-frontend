@@ -1,0 +1,38 @@
+{
+  "name": "Kitchen frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": " vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "dotenv": "^16.0.1",
+    "element-plus": "^2.2.9",
+    "vue":"^3.2.37",
+    "envfile": "^6.17.0",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "vue-router": "^4.1.2",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "dotenv-webpack": "^8.0.0",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2",
+    "typescript": "~4.5.5"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
