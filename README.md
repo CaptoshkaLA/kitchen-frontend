@@ -1,19 +1,32 @@
-# home-page-draft
+Development instructions
+===
 
-## Project setup
-```
-npm install
-```
+🚀 1.Project setup
+---
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Run `npm install`
 
-### Compiles and minifies for production
-```
-npm run build
-```
+🚀 2.Compiles and hot-reloads for development
+---
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Run `npm run serve`
+
+🚀 3.Compiles and minifies for production
+---
+
+Run `npm run build`
+
+Tools
+===
+
+🛠️ Development
+---
+
+The application was written in `TypeScript` using the `Vue.js` framework using the `Element+` library.
+
+🛠️ Technologies used
+---
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vue.js](https://vuejs.org/index.html)
+- [Element-plus](https://element-plus.org/en-US/)
