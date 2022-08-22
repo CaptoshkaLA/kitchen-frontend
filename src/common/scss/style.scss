@@ -1,0 +1,13 @@
+@import './constants.scss';
+@import './breakpoints.scss';
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pacifico&family=Roboto+Slab&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
